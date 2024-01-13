@@ -1,0 +1,6 @@
+
+_php:S103""KSplit this 127 characters long line (which is greater than 120 authorized).(ÿ¢† 
+dphp:S103$"KSplit this 121 characters long line (which is greater than 120 authorized).(Åèìœúÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+J	php:S6600"5Remove the parentheses from this "include_once" call.(Š¢‡™
+f	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(Š¢‡™
